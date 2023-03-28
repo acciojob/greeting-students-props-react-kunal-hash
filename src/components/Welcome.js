@@ -4,7 +4,7 @@ function Welcome(props) {
     <React.Fragment>
       <p>
      <h1>{props.name}</h1>
-      <h2>Welcome to school.</h2>
+      <h2>Welcome to ACCioJOb</h2>
       </p>
     </React.Fragment>
   );
